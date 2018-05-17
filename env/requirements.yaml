@@ -10,6 +10,9 @@ dependencies:
 - name: spring-cloud-k8s-gateway
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.9
+- name: spring-cloud-k8s-minion
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.48
 - name: spring-cloud-k8s-boss
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.18
