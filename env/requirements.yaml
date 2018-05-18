@@ -15,4 +15,4 @@ dependencies:
   version: 1.0.49
 - name: spring-cloud-k8s-boss
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.19
+  version: 1.0.20
