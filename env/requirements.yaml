@@ -18,7 +18,7 @@ dependencies:
   version: 1.0.4
 - name: rabbitmq-ha
   repository: https://kubernetes-charts.storage.googleapis.com
-  version: 0.8.0
+  version: 1.5.2 
 - name: ttc-rb-english-campaign
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.18
