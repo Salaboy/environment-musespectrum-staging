@@ -16,9 +16,9 @@ dependencies:
 - name: ttc-query-campaign
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.4
-- name: rabbitmq-ha
+- name: rabbitmq
   repository: https://kubernetes-charts.storage.googleapis.com
-  version: 1.5.2 
+  version: 0.8.0 
 - name: ttc-rb-english-campaign
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.18
