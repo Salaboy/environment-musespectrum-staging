@@ -27,5 +27,7 @@ rabbitmq:
     password: "guest"
   ingress:
     enabled: true
+  rabbitmqSTOMPPlugin:
+    enabled: true
 postgresql:
    postgresPassword: activiti
