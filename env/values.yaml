@@ -28,5 +28,7 @@ rabbitmq:
     enabled: true
   rabbitmqSTOMPPlugin:
     enabled: true
+  rabbitmqWebSTOMPPlugin:
+    enabled: true
 postgresql:
    postgresPassword: activiti
