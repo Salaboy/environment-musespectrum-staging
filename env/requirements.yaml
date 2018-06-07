@@ -18,7 +18,7 @@ dependencies:
   version: 0.8.0
 - name: ttc-rb-english-campaign
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.23
+  version: 1.0.25
 - name: ttc-connectors-ranking
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.10
